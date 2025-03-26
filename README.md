@@ -51,10 +51,6 @@ Enter Availability (Available/Checked Out): Available
 Book added successfully!
 ```
 
-## Future Enhancements
-- Implement a **database** for permanent storage.
-- Add a **Graphical User Interface (GUI)**.
-- Enable **user authentication** for security.
 
 ## Contributors
 - **Aamir Shahab**
